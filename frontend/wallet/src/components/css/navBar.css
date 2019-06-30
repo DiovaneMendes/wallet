@@ -1,0 +1,29 @@
+a.dcontexto {
+	position: relative;
+	font: 12px arial, verdana, helvetica, sans-serif;
+	padding: 0;
+	color: #039;
+	text-decoration: none;
+	cursor: help;
+	z-index: 24;
+}
+a.dcontexto:hover {
+	background: transparent;
+	z-index: 25;
+}
+a.dcontexto img {
+	display: none;
+}
+a.dcontexto:hover img {
+	display: block;
+	position: absolute;
+	width: 230px;
+	top: 0em;
+	text-align: justify;
+	left: 6em;
+	font: 10px Verdana, arial, helvetica, sans-serif;
+	padding: 5px 10px;
+	border: 1px solid;
+	background:rgb(11, 46, 129);
+	color: #000;
+}

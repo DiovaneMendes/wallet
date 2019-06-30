@@ -1,0 +1,14 @@
+.row-Style{
+    position: relative;
+    background-color: black;
+    margin: 10px;
+
+}
+.col-Style{
+    margin: 10px;
+}
+
+.logo-gerente {
+    width: 150px;
+    height: 150px;
+}

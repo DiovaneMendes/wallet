@@ -1,0 +1,28 @@
+.Logo-img{
+    width:100px; 
+    height:100px;
+    margin-bottom: 15px;
+    margin-top: 40px;
+    
+}
+
+.Logo-img-logo{
+  width:200px; 
+  margin-top: 50px;
+  
+}
+
+.logo-navbar {
+    width: 40px;
+    height: 40px;
+}
+
+.links-navbar {
+    width: 30px;
+    height: 30px;
+}
+
+.logo_plus {
+    width: 70px;
+    margin: 10px; 
+}

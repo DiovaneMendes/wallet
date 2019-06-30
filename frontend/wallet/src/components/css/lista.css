@@ -1,0 +1,87 @@
+.fonts-list{
+    color: black;
+    width: 98%;
+    padding: 15px;
+    text-align: left;
+}
+
+.img {
+    float: right;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+}
+
+.h2-lista {
+    text-align: center;
+}
+
+.div-list{
+    color: black;
+    font-family: Roboto, sans-serif;
+    margin: 0px;
+    padding: 5px 60px;
+    width: 30%;
+    float: left;
+    text-align: left;
+    
+}
+
+.div-list-legenda{
+    color: black;
+    font-family: Roboto, sans-serif;
+    margin: 0px;
+    padding: 5px 60px;
+    width: 30%;
+    float: left;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.div-list-gerentes{
+    color: black;
+    font-family: Roboto, sans-serif;
+    margin: 0px;
+    padding: 5px 60px;
+    width: 45%;
+    float: left;
+    text-align: left;
+    
+}
+
+.div-list-Gerente-leg{
+    color: black;
+    font-family: Roboto, sans-serif;
+    margin-left: 0px;
+    padding: 0px 80px;
+    width: 46%;
+    float: left;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.div-list-servicos{
+  color: black;
+  font-family: Roboto, sans-serif;
+  margin: 0px;
+  padding: 2px 60px;
+  padding-bottom: 2px;
+  width: 45%;
+  height: 10px;
+  float: left; 
+  border: none !important;
+}
+
+.div-list-servicos-leg{
+  color: black;
+  font-family: Roboto, sans-serif;
+  margin-left: 0px;
+  padding: 0px 60px;
+  width: 45%;
+  height: 15px;
+  float: left;
+  font-size: 15px;
+  font-weight: bold;
+ }

@@ -1,0 +1,73 @@
+.backGround {
+    background-color: rgb(0, 235, 157)
+}    
+
+
+.button_color {
+    color: aqua;
+}
+
+.card {
+    align-items: center;
+}
+
+.Logo {
+    font-style: bold, italic; 
+    font-size: 50px;
+    margin-left: 0px;
+    margin-right: 30px;
+    position: center;
+    vertical-align: middle;
+}
+
+.Login-Body {
+    position: relative;
+    margin: 5px;
+    padding: 2px 2px;
+    width: 60%;
+}
+
+.buttom-login {
+    color: rgb(0, 235, 157);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.box {
+    padding: 0 15px;
+    float: left;
+    box-sizing: content-box;
+    background-color: white;    
+}
+
+.font-login {
+    color: rgb(138,134,134);
+    
+}
+
+.h2-login {
+    font-size: 30px;
+
+}
+
+.mensagem-erro {
+  color: red;
+}
+
+.sem-cadastro {
+    text-align: center;
+}
+
+.sem-cadastro h6 {
+    margin: 10px;
+}
+
+.slogan {
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
